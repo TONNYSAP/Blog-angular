@@ -1,0 +1,8 @@
+.parallax {
+    background: url('https://cdn.pixabay.com/photo/2018/08/17/11/44/technology-3612678_960_720.jpg');
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

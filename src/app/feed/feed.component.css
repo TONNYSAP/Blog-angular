@@ -1,0 +1,12 @@
+.icon-trash {
+    position: absolute;
+    right: 10px;
+    margin-top: 10px;
+
+    color: #a0a0a0;
+
+    cursor: pointer;
+}
+.button {
+    border: none;
+}

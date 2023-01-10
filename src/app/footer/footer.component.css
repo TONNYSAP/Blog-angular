@@ -1,0 +1,14 @@
+.iconFacebook, .iconInstagram, .iconLinkedin {
+    font-size: x-large;
+    color: #6e6e6e;
+    transition: .3s;
+}
+.iconFacebook:hover, .iconInstagram:hover, .iconLinkedin:hover {
+    color: #c0bfbf;
+}
+.social-network li {
+    list-style: none;
+    float: left;
+
+    margin-right: 15px;
+}
