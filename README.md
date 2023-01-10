@@ -1,5 +1,7 @@
 <img src="https://github.com/TONNYSAP/Blog-angular/blob/main/src/assets/front-home.jpg" alt="Blog-home" />
 _________________________________________________________________________________________________________________________________________________________
+<img src="https://github.com/TONNYSAP/Blog-angular/blob/main/src/assets/front-feed.jpg" alt="Blog-feeds" />
+_________________________________________________________________________________________________________________________________________________________
 # Blog
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.8.
